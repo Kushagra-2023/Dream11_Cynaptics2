@@ -1,0 +1,7 @@
+Task,Model,Test MAE,Test MAPE (%),Test WMAPE (%),Test R2,Best Params
+Batting,RandomForest,2.21930341454892,65.45845774389407,17.142560167660413,0.9334329698403234,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 150}"
+Batting,CatBoost,1.1379674805901754,29.005623202833586,8.789999545340674,0.9798773529466617,"{'depth': 6, 'iterations': 500, 'l2_leaf_reg': 3, 'learning_rate': 0.05}"
+Bowling,RandomForest,7.5218348550161,91.47145535917252,15.166054011382919,0.9250986492341893,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}"
+Bowling,CatBoost,3.8024966145420294,25.581478008433102,7.666861895510424,0.979632607795957,"{'depth': 6, 'iterations': 500, 'l2_leaf_reg': 3, 'learning_rate': 0.05}"
+Fielding,RandomForest,0.5682880428351175,21.09262975862871,17.3011565068865,0.8678940137286953,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 150}"
+Fielding,CatBoost,0.2779683645839989,8.25851811703891,8.462564434118104,0.9535457499362847,"{'depth': 6, 'iterations': 500, 'l2_leaf_reg': 3, 'learning_rate': 0.05}"

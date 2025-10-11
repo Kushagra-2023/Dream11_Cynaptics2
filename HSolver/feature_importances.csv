@@ -1,0 +1,697 @@
+Task,Model,Feature,Importance
+Batting,CatBoost,Batting Avg,39.22016293926949
+Batting,CatBoost,Avg Batting Points (10),32.64393669442197
+Batting,CatBoost,Dismissal Rate,19.31168268768614
+Batting,CatBoost,Batting S/R,2.6188568042955573
+Batting,CatBoost,Boundary %,1.5840844154500684
+Batting,CatBoost,Games,0.8900643069742876
+Batting,CatBoost,Avg Batting Points (3),0.6526999968642165
+Batting,CatBoost,Role,0.4522148786982176
+Batting,CatBoost,Points vs India,0.22171495020641024
+Batting,CatBoost,Points vs South Africa,0.19452899925881195
+Batting,CatBoost,Points vs England,0.19244917141581652
+Batting,CatBoost,Points vs United Arab Emirates,0.19220057811532656
+Batting,CatBoost,Points vs Scotland,0.17751393772499485
+Batting,CatBoost,Points vs West Indies,0.14844580120327264
+Batting,CatBoost,Points vs New Zealand,0.13540086370276905
+Batting,CatBoost,Points vs Australia,0.13393187449952598
+Batting,CatBoost,Points vs Bangladesh,0.11105347372612655
+Batting,CatBoost,Points vs Ireland,0.10484849436294959
+Batting,CatBoost,Points vs Germany,0.10252856553454683
+Batting,CatBoost,Points vs Sri Lanka,0.081955704217613
+Batting,CatBoost,Points vs Cambodia,0.06280108402867955
+Batting,CatBoost,Points vs Indonesia,0.04893851166717198
+Batting,CatBoost,Points vs Netherlands,0.048373705405211215
+Batting,CatBoost,Points vs Zimbabwe,0.045531965596531755
+Batting,CatBoost,Points vs Guernsey,0.04235640207819682
+Batting,CatBoost,Points vs Tanzania,0.04053850020201333
+Batting,CatBoost,Points vs Cyprus,0.038888383026174145
+Batting,CatBoost,Points vs Estonia,0.03698584938471817
+Batting,CatBoost,Points vs Papua New Guinea,0.036919013475640895
+Batting,CatBoost,Points vs Kenya,0.033399293320924596
+Batting,CatBoost,Points vs Pakistan,0.025444144925553105
+Batting,CatBoost,Points vs Thailand,0.024062221735717176
+Batting,CatBoost,Points vs Jersey,0.020526444763706745
+Batting,CatBoost,Points vs Canada,0.019487373851683407
+Batting,CatBoost,Points vs France,0.018733259262101454
+Batting,CatBoost,Points vs Hungary,0.016217781343963854
+Batting,CatBoost,Points vs Malta,0.01552422405116149
+Batting,CatBoost,Points vs Spain,0.015302450468020458
+Batting,CatBoost,Points vs Uganda,0.01420476442454757
+Batting,CatBoost,Points vs United States of America,0.013176865568346645
+Batting,CatBoost,Points vs Norway,0.012885156891165452
+Batting,CatBoost,Points vs Cayman Islands,0.011476861023054131
+Batting,CatBoost,Points vs Japan,0.010204336479996053
+Batting,CatBoost,Points vs Belgium,0.009544912852458069
+Batting,CatBoost,Points vs Malaysia,0.009508880546756592
+Batting,CatBoost,Points vs Turkey,0.00923506602650103
+Batting,CatBoost,Points vs Serbia,0.008983767456434429
+Batting,CatBoost,Points vs Kuwait,0.008689058477180722
+Batting,CatBoost,Points vs Bermuda,0.008244176921677327
+Batting,CatBoost,Points vs Oman,0.007961535675154589
+Batting,CatBoost,Points vs Romania,0.007915024890194177
+Batting,CatBoost,Points vs Greece,0.0076587959962449844
+Batting,CatBoost,Points vs Austria,0.007271633587725424
+Batting,CatBoost,Points vs Lesotho,0.006915270835978436
+Batting,CatBoost,Points vs Slovenia,0.006774582476267436
+Batting,CatBoost,Points vs Nepal,0.006493587786776881
+Batting,CatBoost,Points vs Vanuatu,0.0063772341025996465
+Batting,CatBoost,Points vs Rwanda,0.006004088849638942
+Batting,CatBoost,Points vs Sweden,0.005364463595284618
+Batting,CatBoost,Points vs Barbados,0.004995214609614189
+Batting,CatBoost,Points vs Bahrain,0.004278935777456538
+Batting,CatBoost,Points vs Samoa,0.003505427263263205
+Batting,CatBoost,Points vs Brazil,0.003012685806358301
+Batting,CatBoost,Points vs Singapore,0.002855715617686356
+Batting,CatBoost,Points vs Czech Republic,0.0024931845120041334
+Batting,CatBoost,Points vs Portugal,0.0024110293079468315
+Batting,CatBoost,Points vs ICC World XI,0.0023107456431786326
+Batting,CatBoost,Points vs Switzerland,0.002245513191495433
+Batting,CatBoost,Points vs Qatar,0.0018661575612914166
+Batting,CatBoost,Points vs Argentina,0.001859417009814133
+Batting,CatBoost,Points vs Myanmar,0.0014944913693388864
+Batting,CatBoost,Points vs Bhutan,0.0013852071161711927
+Batting,CatBoost,Points vs Namibia,0.001292741048077955
+Batting,CatBoost,Points vs Italy,0.0012895141268822923
+Batting,CatBoost,Points vs Fiji,0.001183230747130249
+Batting,CatBoost,Points vs Botswana,0.001125905636181265
+Batting,CatBoost,Points vs Malawi,0.001123288111902184
+Batting,CatBoost,Points vs Cook Islands,0.0010999309869909612
+Batting,CatBoost,Points vs Philippines,0.0010180169355814167
+Batting,CatBoost,Points vs Mexico,0.0009208634400935805
+Batting,CatBoost,Points vs Nigeria,0.0009130211697751095
+Batting,CatBoost,Points vs Belize,0.000896202649236161
+Batting,CatBoost,Points vs Suriname,0.0008722363884596802
+Batting,CatBoost,Points vs Luxembourg,0.0008220350039112757
+Batting,CatBoost,Points vs Bahamas,0.0008081755574101456
+Batting,CatBoost,Points vs Denmark,0.0008069594121586645
+Batting,CatBoost,Points vs Maldives,0.0006679030354440602
+Batting,CatBoost,Points vs Panama,0.0005981235495527832
+Batting,CatBoost,Points vs Iran,0.0005556098057006685
+Batting,CatBoost,Points vs China,0.0005522441018706309
+Batting,CatBoost,Points vs Hong Kong,0.0004946834822732075
+Batting,CatBoost,Points vs Ghana,0.00048491675423516386
+Batting,CatBoost,Points vs Isle of Man,0.00047874069833182245
+Batting,CatBoost,Points vs Cameroon,0.00041693263797054115
+Batting,CatBoost,Points vs South Korea,0.00040535224861030123
+Batting,CatBoost,Points vs Sierra Leone,0.0002708091591204952
+Batting,CatBoost,Points vs Gambia,0.00022984094823038254
+Batting,CatBoost,Points vs Bulgaria,0.00018034268974179512
+Batting,CatBoost,Points vs Saudi Arabia,0.00015691358316003172
+Batting,CatBoost,Points vs Swaziland,0.0001427684442794964
+Batting,CatBoost,Points vs Mali,9.408083353610308e-05
+Batting,CatBoost,Points vs Asia XI,8.975350003427408e-05
+Batting,CatBoost,Points vs Croatia,8.907781881133361e-05
+Batting,CatBoost,Points vs Finland,1.0250030418822351e-05
+Batting,CatBoost,Points vs Africa XI,0.0
+Batting,CatBoost,Points vs St Helena,0.0
+Batting,CatBoost,Points vs Gibraltar,0.0
+Batting,CatBoost,Points vs Israel,0.0
+Batting,CatBoost,Points vs Mongolia,0.0
+Batting,CatBoost,Points vs Seychelles,0.0
+Batting,CatBoost,Points vs Mozambique,0.0
+Batting,CatBoost,Points vs Turks and Caicos Island,0.0
+Batting,CatBoost,Points vs Eswatini,0.0
+Batting,CatBoost,Points vs Ivory Coast,0.0
+Batting,CatBoost,Points vs Chile,0.0
+Batting,CatBoost,Points vs Costa Rica,0.0
+Batting,RandomForest,Avg Batting Points (10),0.23463860910453319
+Batting,RandomForest,Batting Avg,0.2066449250800616
+Batting,RandomForest,Avg Batting Points (3),0.12312978673332861
+Batting,RandomForest,Dismissal Rate,0.0887723072537966
+Batting,RandomForest,Boundary %,0.062027270463825175
+Batting,RandomForest,Batting S/R,0.04175257291938737
+Batting,RandomForest,Role,0.029299325294199555
+Batting,RandomForest,Games,0.018406428240315055
+Batting,RandomForest,Points vs India,0.016336520332049995
+Batting,RandomForest,Points vs West Indies,0.0159365053842987
+Batting,RandomForest,Points vs England,0.013659542737668047
+Batting,RandomForest,Points vs Bangladesh,0.013577963181451554
+Batting,RandomForest,Points vs New Zealand,0.012773806689698412
+Batting,RandomForest,Points vs Australia,0.012698442933086872
+Batting,RandomForest,Points vs Sri Lanka,0.011316419993454993
+Batting,RandomForest,Points vs Pakistan,0.010776065442435779
+Batting,RandomForest,Points vs South Africa,0.010446503324137673
+Batting,RandomForest,Points vs Zimbabwe,0.007076920568703952
+Batting,RandomForest,Points vs Ireland,0.005995739458714127
+Batting,RandomForest,Points vs Netherlands,0.004157567341109018
+Batting,RandomForest,Points vs Scotland,0.003596283796014991
+Batting,RandomForest,Points vs United Arab Emirates,0.0027057416654046643
+Batting,RandomForest,Points vs Canada,0.0020783136793913488
+Batting,RandomForest,Points vs Namibia,0.0020211274390067985
+Batting,RandomForest,Points vs Nepal,0.0019957427625346986
+Batting,RandomForest,Points vs Kenya,0.0018398574862578505
+Batting,RandomForest,Points vs Thailand,0.0017635226263066164
+Batting,RandomForest,Points vs Oman,0.0015743985162988451
+Batting,RandomForest,Points vs Hong Kong,0.0014834603698415006
+Batting,RandomForest,Points vs United States of America,0.0014325264616213158
+Batting,RandomForest,Points vs Uganda,0.0012037820197335425
+Batting,RandomForest,Points vs Malaysia,0.001135562729778071
+Batting,RandomForest,Points vs Papua New Guinea,0.0011236408091584754
+Batting,RandomForest,Points vs Belgium,0.0009980545670729552
+Batting,RandomForest,Points vs Malta,0.0008882994004828845
+Batting,RandomForest,Points vs Romania,0.0008107359010521528
+Batting,RandomForest,Points vs Singapore,0.0007981099011749609
+Batting,RandomForest,Points vs Jersey,0.0007949829033257426
+Batting,RandomForest,Points vs Gibraltar,0.0007876780060680196
+Batting,RandomForest,Points vs Tanzania,0.0007659039286055106
+Batting,RandomForest,Points vs Hungary,0.0007579886533616684
+Batting,RandomForest,Points vs Greece,0.0007562763796403073
+Batting,RandomForest,Points vs Switzerland,0.0007562435906343952
+Batting,RandomForest,Points vs France,0.000731654946144332
+Batting,RandomForest,Points vs Nigeria,0.0007302477542964779
+Batting,RandomForest,Points vs Germany,0.0007264472124736983
+Batting,RandomForest,Points vs Bermuda,0.0007247326214018457
+Batting,RandomForest,Points vs Vanuatu,0.0007247170707842262
+Batting,RandomForest,Points vs Luxembourg,0.00070668175757767
+Batting,RandomForest,Points vs Isle of Man,0.0006982796123518873
+Batting,RandomForest,Points vs Austria,0.0006843716747940067
+Batting,RandomForest,Points vs ICC World XI,0.0006782212604456209
+Batting,RandomForest,Points vs Sweden,0.0006689400994592643
+Batting,RandomForest,Points vs Bahrain,0.000663897284765624
+Batting,RandomForest,Points vs Turkey,0.0006181045915002027
+Batting,RandomForest,Points vs Japan,0.0005813229560305087
+Batting,RandomForest,Points vs Guernsey,0.0005713950933767793
+Batting,RandomForest,Points vs Slovenia,0.0005662735132335326
+Batting,RandomForest,Points vs Kuwait,0.0005630290537859586
+Batting,RandomForest,Points vs Rwanda,0.000541532894735097
+Batting,RandomForest,Points vs Fiji,0.0005315990355576987
+Batting,RandomForest,Points vs Finland,0.0005287091040320968
+Batting,RandomForest,Points vs Botswana,0.0005277947214704041
+Batting,RandomForest,Points vs Cook Islands,0.0005222878299792693
+Batting,RandomForest,Points vs Spain,0.0005207405960361123
+Batting,RandomForest,Points vs Czech Republic,0.0005205399626628106
+Batting,RandomForest,Points vs Denmark,0.0005151182313230494
+Batting,RandomForest,Points vs Estonia,0.0004996788361230685
+Batting,RandomForest,Points vs Cameroon,0.0004950173489877543
+Batting,RandomForest,Points vs Italy,0.0004901381492415966
+Batting,RandomForest,Points vs Bulgaria,0.00048430352207472536
+Batting,RandomForest,Points vs Norway,0.0004612521513127389
+Batting,RandomForest,Points vs Saudi Arabia,0.0004550413535953564
+Batting,RandomForest,Points vs Samoa,0.00045366127289130944
+Batting,RandomForest,Points vs Qatar,0.0004478571366506726
+Batting,RandomForest,Points vs Serbia,0.00043390205123788417
+Batting,RandomForest,Points vs Malawi,0.0004288205837196968
+Batting,RandomForest,Points vs Indonesia,0.00041123720278609044
+Batting,RandomForest,Points vs Sierra Leone,0.00037322399720839393
+Batting,RandomForest,Points vs Bhutan,0.0003621257892973544
+Batting,RandomForest,Points vs Philippines,0.00036076644827050453
+Batting,RandomForest,Points vs Portugal,0.0003459545265821579
+Batting,RandomForest,Points vs Brazil,0.0003456249481402723
+Batting,RandomForest,Points vs Panama,0.0003262477941471776
+Batting,RandomForest,Points vs Maldives,0.0003224289698049816
+Batting,RandomForest,Points vs Croatia,0.0003214591423465109
+Batting,RandomForest,Points vs Africa XI,0.0003135377036592871
+Batting,RandomForest,Points vs Cayman Islands,0.00031283541200063513
+Batting,RandomForest,Points vs Myanmar,0.0003110170713529609
+Batting,RandomForest,Points vs Asia XI,0.0003072330743777015
+Batting,RandomForest,Points vs Cambodia,0.00030411833153252016
+Batting,RandomForest,Points vs Bahamas,0.0002899826276176069
+Batting,RandomForest,Points vs Argentina,0.00027629513901450647
+Batting,RandomForest,Points vs Ghana,0.0002745943775372653
+Batting,RandomForest,Points vs Cyprus,0.00027249101100916675
+Batting,RandomForest,Points vs Mozambique,0.0002671470785122151
+Batting,RandomForest,Points vs Lesotho,0.00026406649553657545
+Batting,RandomForest,Points vs South Korea,0.0002621388261413149
+Batting,RandomForest,Points vs Barbados,0.0002562406878887557
+Batting,RandomForest,Points vs China,0.00024687188094499264
+Batting,RandomForest,Points vs Belize,0.00024161469911488558
+Batting,RandomForest,Points vs Eswatini,0.00020993039109939196
+Batting,RandomForest,Points vs Mongolia,0.00020337868680868682
+Batting,RandomForest,Points vs Israel,0.0002015493890521475
+Batting,RandomForest,Points vs Seychelles,0.00019161364632924694
+Batting,RandomForest,Points vs Gambia,0.00018819146386475971
+Batting,RandomForest,Points vs Swaziland,9.823838551716254e-05
+Batting,RandomForest,Points vs Mexico,9.773736261221916e-05
+Batting,RandomForest,Points vs St Helena,9.70038084153143e-05
+Batting,RandomForest,Points vs Suriname,9.40858928373486e-05
+Batting,RandomForest,Points vs Mali,6.896576933487924e-05
+Batting,RandomForest,Points vs Chile,5.584602455957929e-05
+Batting,RandomForest,Points vs Ivory Coast,4.452035481466654e-05
+Batting,RandomForest,Points vs Costa Rica,4.056777366592022e-05
+Batting,RandomForest,Points vs Turks and Caicos Island,3.0940338722938246e-05
+Batting,RandomForest,Points vs Iran,2.0410124465424793e-05
+Bowling,CatBoost,Avg Bowling Points (10),62.99668363767962
+Bowling,CatBoost,Wickets,18.761618429541358
+Bowling,CatBoost,Games,8.086178929978352
+Bowling,CatBoost,Economy Rate,2.2366650001087875
+Bowling,CatBoost,Bowling Avg,1.4670445144897042
+Bowling,CatBoost,Avg Bowling Points (3),1.3791042842234529
+Bowling,CatBoost,Bowling S/R,0.9046110366189413
+Bowling,CatBoost,Role,0.5418303353776827
+Bowling,CatBoost,Points vs Thailand,0.23702239505942563
+Bowling,CatBoost,Points vs Scotland,0.22302781307287078
+Bowling,CatBoost,Points vs Indonesia,0.2029821786911633
+Bowling,CatBoost,Points vs Bangladesh,0.18979661236330617
+Bowling,CatBoost,Points vs India,0.17845975036338602
+Bowling,CatBoost,Points vs West Indies,0.1679779861156389
+Bowling,CatBoost,Points vs Oman,0.14631055840755336
+Bowling,CatBoost,Points vs New Zealand,0.13940058335806876
+Bowling,CatBoost,Points vs England,0.11237733172067885
+Bowling,CatBoost,Points vs Ireland,0.11055214459227722
+Bowling,CatBoost,Points vs Zimbabwe,0.10342625150356417
+Bowling,CatBoost,Points vs Uganda,0.10322836819915467
+Bowling,CatBoost,Points vs United States of America,0.09529601063759627
+Bowling,CatBoost,Points vs Sri Lanka,0.09517737007004466
+Bowling,CatBoost,Points vs Pakistan,0.08741702531418916
+Bowling,CatBoost,Points vs Germany,0.08269852161945189
+Bowling,CatBoost,Points vs South Africa,0.07832984417146822
+Bowling,CatBoost,Points vs Kenya,0.07464811140345377
+Bowling,CatBoost,Points vs United Arab Emirates,0.0746314042626339
+Bowling,CatBoost,Points vs Australia,0.07103184596128165
+Bowling,CatBoost,Points vs Nigeria,0.06546791511990299
+Bowling,CatBoost,Points vs Tanzania,0.06072812166384482
+Bowling,CatBoost,Points vs Nepal,0.06030231859350649
+Bowling,CatBoost,Points vs Cambodia,0.055470339489307456
+Bowling,CatBoost,Points vs Netherlands,0.047236408541151666
+Bowling,CatBoost,Points vs Papua New Guinea,0.04687740826211978
+Bowling,CatBoost,Points vs Bhutan,0.04108547862958501
+Bowling,CatBoost,Points vs Portugal,0.031244566030318104
+Bowling,CatBoost,Points vs France,0.029926971905043915
+Bowling,CatBoost,Points vs Singapore,0.02944590322198016
+Bowling,CatBoost,Points vs Estonia,0.02753366936203371
+Bowling,CatBoost,Points vs Botswana,0.027509532012540187
+Bowling,CatBoost,Points vs Canada,0.024276775398929893
+Bowling,CatBoost,Points vs Bahrain,0.02426818943257606
+Bowling,CatBoost,Points vs Seychelles,0.02392324960670901
+Bowling,CatBoost,Points vs Cyprus,0.023594673509498905
+Bowling,CatBoost,Points vs Guernsey,0.022523071207329264
+Bowling,CatBoost,Points vs Lesotho,0.02160026960744184
+Bowling,CatBoost,Points vs Serbia,0.020191545918002273
+Bowling,CatBoost,Points vs Philippines,0.018953786912375384
+Bowling,CatBoost,Points vs Bulgaria,0.01892182131614456
+Bowling,CatBoost,Points vs Mozambique,0.017758017631416042
+Bowling,CatBoost,Points vs Malawi,0.017337795481700335
+Bowling,CatBoost,Points vs Czech Republic,0.017334077285701206
+Bowling,CatBoost,Points vs Sierra Leone,0.016469465799129595
+Bowling,CatBoost,Points vs Maldives,0.015533102758518954
+Bowling,CatBoost,Points vs Jersey,0.01520097034148635
+Bowling,CatBoost,Points vs Norway,0.0147559537579364
+Bowling,CatBoost,Points vs Belgium,0.013884855397742459
+Bowling,CatBoost,Points vs Namibia,0.013780558667596298
+Bowling,CatBoost,Points vs Malaysia,0.013643071283274761
+Bowling,CatBoost,Points vs Eswatini,0.012830696229011562
+Bowling,CatBoost,Points vs Austria,0.012822861767113218
+Bowling,CatBoost,Points vs Vanuatu,0.010288687883103203
+Bowling,CatBoost,Points vs Barbados,0.009257900188214931
+Bowling,CatBoost,Points vs Saudi Arabia,0.009057342165034966
+Bowling,CatBoost,Points vs Qatar,0.008854898513475526
+Bowling,CatBoost,Points vs Hungary,0.008084687664114526
+Bowling,CatBoost,Points vs Italy,0.008035298321904487
+Bowling,CatBoost,Points vs Turkey,0.007694309467787344
+Bowling,CatBoost,Points vs Isle of Man,0.007477732287076002
+Bowling,CatBoost,Points vs Switzerland,0.007078432984188041
+Bowling,CatBoost,Points vs Romania,0.006558432760763444
+Bowling,CatBoost,Points vs Mongolia,0.006055190891127454
+Bowling,CatBoost,Points vs Sweden,0.005372582965582364
+Bowling,CatBoost,Points vs Myanmar,0.005224455496994424
+Bowling,CatBoost,Points vs Bermuda,0.005212404482611975
+Bowling,CatBoost,Points vs Greece,0.004955939023058669
+Bowling,CatBoost,Points vs South Korea,0.003931698819276096
+Bowling,CatBoost,Points vs Malta,0.0038800488077517406
+Bowling,CatBoost,Points vs Rwanda,0.0036721050207556595
+Bowling,CatBoost,Points vs Finland,0.003432250223063436
+Bowling,CatBoost,Points vs Gibraltar,0.0026178665874492754
+Bowling,CatBoost,Points vs Africa XI,0.0024951650423379328
+Bowling,CatBoost,Points vs Kuwait,0.002470306249691124
+Bowling,CatBoost,Points vs Samoa,0.002002708671088801
+Bowling,CatBoost,Points vs Hong Kong,0.0016998424090961372
+Bowling,CatBoost,Points vs Costa Rica,0.0016449001400108013
+Bowling,CatBoost,Points vs Slovenia,0.0016133275416842121
+Bowling,CatBoost,Points vs Brazil,0.0014756358290490014
+Bowling,CatBoost,Points vs Spain,0.0012746221028949786
+Bowling,CatBoost,Points vs Mali,0.001251485356416024
+Bowling,CatBoost,Points vs Fiji,0.001190125401342925
+Bowling,CatBoost,Points vs ICC World XI,0.0011006486032029718
+Bowling,CatBoost,Points vs Gambia,0.0009657051444507304
+Bowling,CatBoost,Points vs China,0.000901686944729681
+Bowling,CatBoost,Points vs Luxembourg,0.0008960057539239827
+Bowling,CatBoost,Points vs Israel,0.0007403458937562315
+Bowling,CatBoost,Points vs Chile,0.000695338182423975
+Bowling,CatBoost,Points vs Turks and Caicos Island,0.0006760978451496004
+Bowling,CatBoost,Points vs Swaziland,0.0001397633381941482
+Bowling,CatBoost,Points vs Panama,3.9648081214856106e-05
+Bowling,CatBoost,Points vs Mexico,2.0836310107580028e-05
+Bowling,CatBoost,Points vs Cameroon,1.8235598529079287e-06
+Bowling,CatBoost,Points vs Asia XI,0.0
+Bowling,CatBoost,Points vs Ghana,0.0
+Bowling,CatBoost,Points vs St Helena,0.0
+Bowling,CatBoost,Points vs Denmark,0.0
+Bowling,CatBoost,Points vs Croatia,0.0
+Bowling,CatBoost,Points vs Cayman Islands,0.0
+Bowling,CatBoost,Points vs Argentina,0.0
+Bowling,CatBoost,Points vs Bahamas,0.0
+Bowling,CatBoost,Points vs Belize,0.0
+Bowling,CatBoost,Points vs Japan,0.0
+Bowling,CatBoost,Points vs Cook Islands,0.0
+Bowling,CatBoost,Points vs Ivory Coast,0.0
+Bowling,CatBoost,Points vs Iran,0.0
+Bowling,CatBoost,Points vs Suriname,0.0
+Bowling,RandomForest,Avg Bowling Points (10),0.24637910438267493
+Bowling,RandomForest,Wickets,0.17159665994470705
+Bowling,RandomForest,Avg Bowling Points (3),0.170197966879852
+Bowling,RandomForest,Economy Rate,0.06600110893161698
+Bowling,RandomForest,Bowling S/R,0.06500578445264449
+Bowling,RandomForest,Bowling Avg,0.06277683281453167
+Bowling,RandomForest,Role,0.05711064058564999
+Bowling,RandomForest,Games,0.015774268812557224
+Bowling,RandomForest,Points vs Pakistan,0.007898029103354041
+Bowling,RandomForest,Points vs Sri Lanka,0.00754943062917512
+Bowling,RandomForest,Points vs Australia,0.006799649328815428
+Bowling,RandomForest,Points vs India,0.006479262859770982
+Bowling,RandomForest,Points vs Bangladesh,0.006312261628886527
+Bowling,RandomForest,Points vs West Indies,0.006223182691080131
+Bowling,RandomForest,Points vs Zimbabwe,0.0061142225764613456
+Bowling,RandomForest,Points vs Ireland,0.005996178966285779
+Bowling,RandomForest,Points vs England,0.005854777018404104
+Bowling,RandomForest,Points vs New Zealand,0.005810681519596982
+Bowling,RandomForest,Points vs South Africa,0.005429510987808159
+Bowling,RandomForest,Points vs Scotland,0.0038056859189687115
+Bowling,RandomForest,Points vs Netherlands,0.0034895757415885336
+Bowling,RandomForest,Points vs United Arab Emirates,0.0031786269135151185
+Bowling,RandomForest,Points vs Norway,0.002702691175596965
+Bowling,RandomForest,Points vs Thailand,0.0024103042342108424
+Bowling,RandomForest,Points vs Namibia,0.0023444201922054406
+Bowling,RandomForest,Points vs Papua New Guinea,0.0020918424634184716
+Bowling,RandomForest,Points vs Kenya,0.0020237321509771044
+Bowling,RandomForest,Points vs Malaysia,0.0019301062672521308
+Bowling,RandomForest,Points vs Hong Kong,0.0019167667964134411
+Bowling,RandomForest,Points vs Nepal,0.0018905876683888178
+Bowling,RandomForest,Points vs Canada,0.0017422207326623716
+Bowling,RandomForest,Points vs Oman,0.0016432557001279347
+Bowling,RandomForest,Points vs Uganda,0.0016222728170315604
+Bowling,RandomForest,Points vs United States of America,0.0015037944032185117
+Bowling,RandomForest,Points vs Italy,0.0013890570721513537
+Bowling,RandomForest,Points vs Nigeria,0.0012696639239498627
+Bowling,RandomForest,Points vs Cook Islands,0.0012687418820549459
+Bowling,RandomForest,Points vs France,0.0011192221855611272
+Bowling,RandomForest,Points vs Tanzania,0.0010973516625936578
+Bowling,RandomForest,Points vs Singapore,0.0010614204656406393
+Bowling,RandomForest,Points vs Botswana,0.0009117450030804708
+Bowling,RandomForest,Points vs Luxembourg,0.000903891339056948
+Bowling,RandomForest,Points vs Rwanda,0.0008836564694217444
+Bowling,RandomForest,Points vs Bermuda,0.0008765507139071126
+Bowling,RandomForest,Points vs Kuwait,0.000857721909755601
+Bowling,RandomForest,Points vs Jersey,0.0008514571467937458
+Bowling,RandomForest,Points vs Malta,0.0008384953928972914
+Bowling,RandomForest,Points vs Bahrain,0.0008336717743243042
+Bowling,RandomForest,Points vs Japan,0.0008298962139142618
+Bowling,RandomForest,Points vs Isle of Man,0.0007809714544579171
+Bowling,RandomForest,Points vs Cameroon,0.0007683080366766948
+Bowling,RandomForest,Points vs Samoa,0.0007474042071577884
+Bowling,RandomForest,Points vs Malawi,0.0007391566023092096
+Bowling,RandomForest,Points vs Austria,0.000714315241327869
+Bowling,RandomForest,Points vs Germany,0.0007036768271811876
+Bowling,RandomForest,Points vs Bhutan,0.0006483945938880702
+Bowling,RandomForest,Points vs Vanuatu,0.0006371940727380771
+Bowling,RandomForest,Points vs Sierra Leone,0.0006291900746403239
+Bowling,RandomForest,Points vs Gibraltar,0.0006105789584870783
+Bowling,RandomForest,Points vs Romania,0.0005955885794525673
+Bowling,RandomForest,Points vs Czech Republic,0.0005657014930397022
+Bowling,RandomForest,Points vs Qatar,0.0005618567104088703
+Bowling,RandomForest,Points vs Belgium,0.0005462526390276556
+Bowling,RandomForest,Points vs Lesotho,0.0005277362842659758
+Bowling,RandomForest,Points vs Denmark,0.0005262967982110337
+Bowling,RandomForest,Points vs Switzerland,0.0005061405463406744
+Bowling,RandomForest,Points vs Indonesia,0.0004976081785888973
+Bowling,RandomForest,Points vs Turkey,0.000494575156979956
+Bowling,RandomForest,Points vs Portugal,0.0004886469427093157
+Bowling,RandomForest,Points vs Brazil,0.0004788150843170177
+Bowling,RandomForest,Points vs Maldives,0.0004763533015570562
+Bowling,RandomForest,Points vs Philippines,0.0004654298898087476
+Bowling,RandomForest,Points vs Croatia,0.00046491255945909667
+Bowling,RandomForest,Points vs Saudi Arabia,0.0004616138665504918
+Bowling,RandomForest,Points vs Mozambique,0.00045212519720660743
+Bowling,RandomForest,Points vs Sweden,0.00044221524302199135
+Bowling,RandomForest,Points vs Mongolia,0.00043983814041114296
+Bowling,RandomForest,Points vs Finland,0.00043803965224798797
+Bowling,RandomForest,Points vs China,0.0004256770807371643
+Bowling,RandomForest,Points vs Guernsey,0.00041414095166715737
+Bowling,RandomForest,Points vs ICC World XI,0.0004086898406584156
+Bowling,RandomForest,Points vs Estonia,0.000408207590591056
+Bowling,RandomForest,Points vs Bulgaria,0.0003860473780687222
+Bowling,RandomForest,Points vs Seychelles,0.00037806485292306584
+Bowling,RandomForest,Points vs Myanmar,0.00037376754925125835
+Bowling,RandomForest,Points vs Fiji,0.00035049399645810305
+Bowling,RandomForest,Points vs Ghana,0.00035005612256582295
+Bowling,RandomForest,Points vs Spain,0.00033990886725050523
+Bowling,RandomForest,Points vs Serbia,0.0003280534667799773
+Bowling,RandomForest,Points vs Hungary,0.00032281140385308595
+Bowling,RandomForest,Points vs Panama,0.00031542051738644517
+Bowling,RandomForest,Points vs Cambodia,0.0003114965085651219
+Bowling,RandomForest,Points vs Argentina,0.0003063867967164444
+Bowling,RandomForest,Points vs Eswatini,0.0002955629830938367
+Bowling,RandomForest,Points vs Greece,0.00028724810964894496
+Bowling,RandomForest,Points vs Cyprus,0.00028614602017334025
+Bowling,RandomForest,Points vs Bahamas,0.00026119226077045426
+Bowling,RandomForest,Points vs Cayman Islands,0.0002423996720471034
+Bowling,RandomForest,Points vs South Korea,0.00021132310944448464
+Bowling,RandomForest,Points vs Mali,0.00019922651089942966
+Bowling,RandomForest,Points vs Suriname,0.00018746861807519366
+Bowling,RandomForest,Points vs Belize,0.00018608157397744456
+Bowling,RandomForest,Points vs Barbados,0.0001742007660570875
+Bowling,RandomForest,Points vs Slovenia,0.00016260722497217075
+Bowling,RandomForest,Points vs Israel,0.00014322822104999476
+Bowling,RandomForest,Points vs Gambia,0.00014221242616436672
+Bowling,RandomForest,Points vs Swaziland,0.00012965627388477287
+Bowling,RandomForest,Points vs Asia XI,0.00012878801200137652
+Bowling,RandomForest,Points vs Mexico,0.00010799735754060022
+Bowling,RandomForest,Points vs Ivory Coast,9.777672744195354e-05
+Bowling,RandomForest,Points vs St Helena,9.322134053071637e-05
+Bowling,RandomForest,Points vs Africa XI,7.924888950992557e-05
+Bowling,RandomForest,Points vs Chile,5.920355443526017e-05
+Bowling,RandomForest,Points vs Iran,4.345013128456708e-05
+Bowling,RandomForest,Points vs Costa Rica,3.2702314764407904e-05
+Bowling,RandomForest,Points vs Turks and Caicos Island,2.2918201739289956e-05
+Fielding,CatBoost,Avg Fielding Points (10),54.39428215556607
+Fielding,CatBoost,Role,11.999403641428778
+Fielding,CatBoost,Catches,9.798065482599323
+Fielding,CatBoost,Games,7.932036350434052
+Fielding,CatBoost,Stumpings,6.047578997878929
+Fielding,CatBoost,Runouts,3.3474100968660294
+Fielding,CatBoost,Avg Fielding Points (3),1.5831924579247203
+Fielding,CatBoost,Points vs United Arab Emirates,0.445275429988247
+Fielding,CatBoost,Points vs West Indies,0.39226886488204177
+Fielding,CatBoost,Points vs Australia,0.3418355284870862
+Fielding,CatBoost,Points vs Sri Lanka,0.28689511792647987
+Fielding,CatBoost,Points vs India,0.2805022918899078
+Fielding,CatBoost,Points vs Pakistan,0.23788669275521598
+Fielding,CatBoost,Points vs Papua New Guinea,0.22539768437456212
+Fielding,CatBoost,Points vs South Africa,0.21208077956195281
+Fielding,CatBoost,Points vs New Zealand,0.20898398764090853
+Fielding,CatBoost,Points vs Bangladesh,0.1957435286439843
+Fielding,CatBoost,Win %,0.19216554266060445
+Fielding,CatBoost,Points vs Oman,0.19083360964420465
+Fielding,CatBoost,Points vs England,0.18446020712246095
+Fielding,CatBoost,Points vs Ireland,0.15394518322776307
+Fielding,CatBoost,Points vs Scotland,0.14877814236600498
+Fielding,CatBoost,Points vs Netherlands,0.13778911582026182
+Fielding,CatBoost,Points vs Zimbabwe,0.1328436420370879
+Fielding,CatBoost,Points vs Thailand,0.1047310076206627
+Fielding,CatBoost,Points vs Indonesia,0.09483336638149965
+Fielding,CatBoost,Points vs Tanzania,0.06490593130072884
+Fielding,CatBoost,Points vs Canada,0.05881646585751754
+Fielding,CatBoost,Points vs Uganda,0.055294391905642795
+Fielding,CatBoost,Points vs Malaysia,0.050708739081471006
+Fielding,CatBoost,Points vs Belgium,0.041991107318209805
+Fielding,CatBoost,Points vs Guernsey,0.041605173745038165
+Fielding,CatBoost,Points vs France,0.031370079952417376
+Fielding,CatBoost,Points vs Nepal,0.02989997490804886
+Fielding,CatBoost,Points vs Lesotho,0.018421383760714033
+Fielding,CatBoost,Points vs Portugal,0.018031667483905087
+Fielding,CatBoost,Points vs Norway,0.017769990234482266
+Fielding,CatBoost,Points vs Bulgaria,0.017633151284297176
+Fielding,CatBoost,Points vs Botswana,0.01695562623368301
+Fielding,CatBoost,Points vs United States of America,0.015654838486009518
+Fielding,CatBoost,Points vs Bhutan,0.015212261467274942
+Fielding,CatBoost,Points vs Mozambique,0.012788854106470475
+Fielding,CatBoost,Points vs Malta,0.012279677142061293
+Fielding,CatBoost,Points vs Malawi,0.011880741065543526
+Fielding,CatBoost,Points vs Sierra Leone,0.011278472240346898
+Fielding,CatBoost,Points vs Isle of Man,0.01101224034989011
+Fielding,CatBoost,Points vs Namibia,0.010495691258730153
+Fielding,CatBoost,Points vs Estonia,0.010297449460558708
+Fielding,CatBoost,Points vs Hong Kong,0.010288028471932505
+Fielding,CatBoost,Points vs Germany,0.010094196595545902
+Fielding,CatBoost,Points vs China,0.009554701875670845
+Fielding,CatBoost,Points vs Italy,0.008933509491284962
+Fielding,CatBoost,Points vs Rwanda,0.008780560019125326
+Fielding,CatBoost,Points vs Cambodia,0.007690960715658554
+Fielding,CatBoost,Points vs Israel,0.007616079068303958
+Fielding,CatBoost,Points vs Turkey,0.006613866560507112
+Fielding,CatBoost,Points vs Singapore,0.006034429644728335
+Fielding,CatBoost,Points vs Cameroon,0.006010999835521631
+Fielding,CatBoost,Points vs Gambia,0.005566513101856758
+Fielding,CatBoost,Points vs Brazil,0.005407085937869866
+Fielding,CatBoost,Points vs Austria,0.005254665932287948
+Fielding,CatBoost,Points vs Sweden,0.0047588313347954325
+Fielding,CatBoost,Points vs Kenya,0.0043777184146879256
+Fielding,CatBoost,Points vs Romania,0.0042882732395745915
+Fielding,CatBoost,Points vs Kuwait,0.003969558722787802
+Fielding,CatBoost,Points vs Serbia,0.003923890849497727
+Fielding,CatBoost,Points vs Jersey,0.003708928537192347
+Fielding,CatBoost,Points vs Bahrain,0.0032316155757123417
+Fielding,CatBoost,Points vs Myanmar,0.003042353149833881
+Fielding,CatBoost,Points vs South Korea,0.002716581460698854
+Fielding,CatBoost,Points vs Barbados,0.002696710105316347
+Fielding,CatBoost,Points vs Vanuatu,0.00234709584549204
+Fielding,CatBoost,Points vs Slovenia,0.0022839818198238993
+Fielding,CatBoost,Points vs Gibraltar,0.0022823564791933414
+Fielding,CatBoost,Points vs Seychelles,0.002254569317206534
+Fielding,CatBoost,Points vs Argentina,0.0021785727916012318
+Fielding,CatBoost,Points vs Bermuda,0.001968152549341609
+Fielding,CatBoost,Points vs Panama,0.00192695067126487
+Fielding,CatBoost,Points vs Japan,0.0015168509461365698
+Fielding,CatBoost,Points vs Asia XI,0.0013286803495338364
+Fielding,CatBoost,Points vs Belize,0.00109448641713678
+Fielding,CatBoost,Points vs Philippines,0.0008340261417367968
+Fielding,CatBoost,Points vs Qatar,0.000554604075953988
+Fielding,CatBoost,Points vs Cyprus,0.0004585436268434255
+Fielding,CatBoost,Points vs Spain,0.0004197507567036317
+Fielding,CatBoost,Points vs Fiji,0.00033159054324779044
+Fielding,CatBoost,Points vs Turks and Caicos Island,0.00012836774337625712
+Fielding,CatBoost,Points vs Croatia,7.725448499599318e-06
+Fielding,CatBoost,Points vs Samoa,8.21464618413749e-07
+Fielding,CatBoost,Points vs Africa XI,0.0
+Fielding,CatBoost,Points vs ICC World XI,0.0
+Fielding,CatBoost,Points vs Ghana,0.0
+Fielding,CatBoost,Points vs Nigeria,0.0
+Fielding,CatBoost,Points vs St Helena,0.0
+Fielding,CatBoost,Points vs Mali,0.0
+Fielding,CatBoost,Points vs Denmark,0.0
+Fielding,CatBoost,Points vs Czech Republic,0.0
+Fielding,CatBoost,Points vs Greece,0.0
+Fielding,CatBoost,Points vs Finland,0.0
+Fielding,CatBoost,Points vs Cayman Islands,0.0
+Fielding,CatBoost,Points vs Bahamas,0.0
+Fielding,CatBoost,Points vs Saudi Arabia,0.0
+Fielding,CatBoost,Points vs Mongolia,0.0
+Fielding,CatBoost,Points vs Maldives,0.0
+Fielding,CatBoost,Points vs Hungary,0.0
+Fielding,CatBoost,Points vs Mexico,0.0
+Fielding,CatBoost,Points vs Luxembourg,0.0
+Fielding,CatBoost,Points vs Switzerland,0.0
+Fielding,CatBoost,Points vs Cook Islands,0.0
+Fielding,CatBoost,Points vs Eswatini,0.0
+Fielding,CatBoost,Points vs Ivory Coast,0.0
+Fielding,CatBoost,Points vs Swaziland,0.0
+Fielding,CatBoost,Points vs Iran,0.0
+Fielding,CatBoost,Points vs Suriname,0.0
+Fielding,CatBoost,Points vs Chile,0.0
+Fielding,CatBoost,Points vs Costa Rica,0.0
+Fielding,RandomForest,Avg Fielding Points (10),0.25257639168409496
+Fielding,RandomForest,Role,0.16656687690392585
+Fielding,RandomForest,Avg Fielding Points (3),0.12877024570094725
+Fielding,RandomForest,Stumpings,0.11016741837886111
+Fielding,RandomForest,Catches,0.07644372867497143
+Fielding,RandomForest,Runouts,0.04289403225297633
+Fielding,RandomForest,Games,0.024045109103550087
+Fielding,RandomForest,Win %,0.0165006041117594
+Fielding,RandomForest,Points vs Sri Lanka,0.008968292469304995
+Fielding,RandomForest,Points vs West Indies,0.007758059931289806
+Fielding,RandomForest,Points vs Bangladesh,0.007593049138361233
+Fielding,RandomForest,Points vs England,0.007443848901818641
+Fielding,RandomForest,Points vs Pakistan,0.007125820163493218
+Fielding,RandomForest,Points vs South Africa,0.006914636126870693
+Fielding,RandomForest,Points vs New Zealand,0.006728210864760835
+Fielding,RandomForest,Points vs Australia,0.006520016767199063
+Fielding,RandomForest,Points vs India,0.006386659956409639
+Fielding,RandomForest,Points vs Zimbabwe,0.0063818200559026825
+Fielding,RandomForest,Points vs Ireland,0.005672706159437044
+Fielding,RandomForest,Points vs United Arab Emirates,0.0043857841366908516
+Fielding,RandomForest,Points vs Netherlands,0.004196151168305864
+Fielding,RandomForest,Points vs Scotland,0.003766303275136848
+Fielding,RandomForest,Points vs Nepal,0.0028674095278927677
+Fielding,RandomForest,Points vs Kenya,0.0028654947706065964
+Fielding,RandomForest,Points vs Thailand,0.0025581773940446862
+Fielding,RandomForest,Points vs Namibia,0.002510985311493735
+Fielding,RandomForest,Points vs Hong Kong,0.0024538631085772988
+Fielding,RandomForest,Points vs Canada,0.002259632828173832
+Fielding,RandomForest,Points vs Oman,0.002223005400190345
+Fielding,RandomForest,Points vs Malaysia,0.002034965673325808
+Fielding,RandomForest,Points vs Germany,0.002002239166784002
+Fielding,RandomForest,Points vs France,0.0019115808202634552
+Fielding,RandomForest,Points vs Papua New Guinea,0.001909981757882879
+Fielding,RandomForest,Points vs United States of America,0.001734008922388987
+Fielding,RandomForest,Points vs Uganda,0.0016796372123939812
+Fielding,RandomForest,Points vs Israel,0.0016619712666220306
+Fielding,RandomForest,Points vs Austria,0.0015689372568404069
+Fielding,RandomForest,Points vs Tanzania,0.0015575377644833988
+Fielding,RandomForest,Points vs Qatar,0.0014977821432450634
+Fielding,RandomForest,Points vs Sweden,0.0014636946980620608
+Fielding,RandomForest,Points vs Singapore,0.0014269287365438902
+Fielding,RandomForest,Points vs Norway,0.0013564983548182417
+Fielding,RandomForest,Points vs Romania,0.0013341048528222794
+Fielding,RandomForest,Points vs Italy,0.0013036768091126973
+Fielding,RandomForest,Points vs Kuwait,0.0012922871889736994
+Fielding,RandomForest,Points vs Hungary,0.0012300585767163268
+Fielding,RandomForest,Points vs Spain,0.001197039422287435
+Fielding,RandomForest,Points vs Luxembourg,0.0011936289772036426
+Fielding,RandomForest,Points vs Nigeria,0.0011823444054775382
+Fielding,RandomForest,Points vs Malta,0.0011715457048696943
+Fielding,RandomForest,Points vs Belgium,0.0011680667063674204
+Fielding,RandomForest,Points vs Bermuda,0.0011449565090536895
+Fielding,RandomForest,Points vs Botswana,0.0011270536906878847
+Fielding,RandomForest,Points vs Estonia,0.0010849581183466797
+Fielding,RandomForest,Points vs Turkey,0.0010765700801842841
+Fielding,RandomForest,Points vs Bahrain,0.001062770980713584
+Fielding,RandomForest,Points vs Japan,0.0010524259443580705
+Fielding,RandomForest,Points vs Bhutan,0.0010210189455172694
+Fielding,RandomForest,Points vs Czech Republic,0.0010112389764402813
+Fielding,RandomForest,Points vs Indonesia,0.0009986715373312084
+Fielding,RandomForest,Points vs Rwanda,0.0009758215372423723
+Fielding,RandomForest,Points vs Jersey,0.0009747368531286029
+Fielding,RandomForest,Points vs Gibraltar,0.0009656527928349547
+Fielding,RandomForest,Points vs Isle of Man,0.0009381230695147826
+Fielding,RandomForest,Points vs Bulgaria,0.0009065908072143855
+Fielding,RandomForest,Points vs Lesotho,0.0008757159040320989
+Fielding,RandomForest,Points vs Switzerland,0.0008682910850380558
+Fielding,RandomForest,Points vs Guernsey,0.0008614421858520428
+Fielding,RandomForest,Points vs Cyprus,0.0008464704610507411
+Fielding,RandomForest,Points vs Portugal,0.0008395936148846275
+Fielding,RandomForest,Points vs Vanuatu,0.0008381224164531603
+Fielding,RandomForest,Points vs Finland,0.0008115067443437281
+Fielding,RandomForest,Points vs Mozambique,0.0008015962344107683
+Fielding,RandomForest,Points vs Croatia,0.0007870464144580964
+Fielding,RandomForest,Points vs Sierra Leone,0.0007808317567220262
+Fielding,RandomForest,Points vs Denmark,0.0007789658570861609
+Fielding,RandomForest,Points vs Saudi Arabia,0.0007740869863187269
+Fielding,RandomForest,Points vs Brazil,0.0007620536945977934
+Fielding,RandomForest,Points vs Cameroon,0.0007461152026804555
+Fielding,RandomForest,Points vs Malawi,0.0007224964159558058
+Fielding,RandomForest,Points vs Panama,0.0007199775058631679
+Fielding,RandomForest,Points vs Maldives,0.0006873239718000597
+Fielding,RandomForest,Points vs Samoa,0.0006432778417730523
+Fielding,RandomForest,Points vs Eswatini,0.0006195910684204601
+Fielding,RandomForest,Points vs ICC World XI,0.0006089308226997594
+Fielding,RandomForest,Points vs Philippines,0.0006048297359434372
+Fielding,RandomForest,Points vs Fiji,0.0005883158166772576
+Fielding,RandomForest,Points vs China,0.0005719181372650647
+Fielding,RandomForest,Points vs Greece,0.000560705814407861
+Fielding,RandomForest,Points vs Cayman Islands,0.0005465415577464648
+Fielding,RandomForest,Points vs Ghana,0.0005463957697811242
+Fielding,RandomForest,Points vs Myanmar,0.0005322051540255329
+Fielding,RandomForest,Points vs Cook Islands,0.0005267320861677934
+Fielding,RandomForest,Points vs Bahamas,0.0005117574058761669
+Fielding,RandomForest,Points vs Mongolia,0.0005091214184796693
+Fielding,RandomForest,Points vs Argentina,0.0005082656181430436
+Fielding,RandomForest,Points vs Mexico,0.000505660770181204
+Fielding,RandomForest,Points vs Serbia,0.0005007204045065764
+Fielding,RandomForest,Points vs Chile,0.0004920197435556281
+Fielding,RandomForest,Points vs Mali,0.00044542221656631133
+Fielding,RandomForest,Points vs Barbados,0.00043324430120607023
+Fielding,RandomForest,Points vs Cambodia,0.00042384901712360046
+Fielding,RandomForest,Points vs Slovenia,0.0004100823610199273
+Fielding,RandomForest,Points vs Suriname,0.00039753237393538377
+Fielding,RandomForest,Points vs Asia XI,0.0003597008517724249
+Fielding,RandomForest,Points vs Gambia,0.0003425094289112407
+Fielding,RandomForest,Points vs Belize,0.000332109374364526
+Fielding,RandomForest,Points vs South Korea,0.00026494582041194085
+Fielding,RandomForest,Points vs Seychelles,0.00026302755530882257
+Fielding,RandomForest,Points vs Africa XI,0.00024550457409033073
+Fielding,RandomForest,Points vs St Helena,0.00011692494704997144
+Fielding,RandomForest,Points vs Ivory Coast,0.00010948009887201247
+Fielding,RandomForest,Points vs Turks and Caicos Island,8.498449699795207e-05
+Fielding,RandomForest,Points vs Costa Rica,7.190300672634505e-05
+Fielding,RandomForest,Points vs Swaziland,4.071786073979314e-05
+Fielding,RandomForest,Points vs Iran,1.599557060572132e-05
